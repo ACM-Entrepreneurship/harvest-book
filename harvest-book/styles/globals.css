@@ -122,3 +122,16 @@ nav{
   font-size: 40px;
   font-weight: 500;
 }
+
+.custom-footer {
+  color: #116530;
+}
+
+#footer_logo {
+  height: 60px;
+  width: 55px;
+}
+
+.calc-button {
+  padding-bottom: 50px;
+}
