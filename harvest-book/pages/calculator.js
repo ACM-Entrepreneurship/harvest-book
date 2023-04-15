@@ -1,11 +1,12 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
+import Layout from '../components/Layout'
 //import { Link } from "react-router-dom";
 
-function About() {
+function Calculator() {
     return(
         <>
-        <Navbar></Navbar>
+        <Layout>
         <div>
             <div>
               <h1 id="paragraph_header">See how much you can save!</h1>
@@ -118,14 +119,15 @@ function About() {
                 </div>
                </div>
 
-               <div class="col-12">
+               <div class="col-12 calc-button">
                    <button class="btn btn-success" type="submit">See how much you save</button>
                </div>
               </form>
              </div>
         </div>
+        </Layout>
         </>
     )
 }
 
-export default About;
+export default Calculator;
