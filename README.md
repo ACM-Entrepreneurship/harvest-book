@@ -13,3 +13,10 @@
  
  ## Quick Links
 [__Installation Instructions__](harvest-book/README.md)
+
+## Description
+
+
+## Technologies Used
+
+(add logo of next.js, html, css, javascript, google api
