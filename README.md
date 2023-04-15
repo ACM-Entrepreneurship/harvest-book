@@ -8,7 +8,7 @@
 [![issues - harvest-book](https://img.shields.io/github/issues/ACM-Entrepreneurship/harvest-book-02)](https://github.com/ACM-Entrepreneurship/harvest-book-02/issues)
 ![pull requests](https://img.shields.io/github/issues-pr/ACM-Entrepreneurship/harvest-book-02)
 <p>
-  <img src="harvest-book-02/public/images/harvest_book_logo.png" height="250">
+  <img src="harvest-book/public/images/harvest_book_logo.png" height="250">
  </p>
  
  ## Quick Links
