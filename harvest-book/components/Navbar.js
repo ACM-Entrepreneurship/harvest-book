@@ -1,5 +1,5 @@
 import { Component } from "react";
-import Link from "next/link"
+import Link from "next/link";
 //import "./navbar.css";
 
 class Navbar extends Component {
