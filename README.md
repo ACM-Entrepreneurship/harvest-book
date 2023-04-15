@@ -28,4 +28,3 @@ Harvest Book is a website that provides a platform for farmers to donate their e
 <img src="https://avatars.githubusercontent.com/u/3717923?s=280&v=4" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-(add logo of next.js, html, css, javascript, google api, visual studio, bootstrap
