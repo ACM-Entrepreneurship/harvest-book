@@ -14,16 +14,16 @@ class Navbar extends Component {
             <a href="/"><img src="images/harvest_book_logo.png" id="acme-logo-r" alt="HarvestBook Logo"/></a>
 
             <div>
-                <ul id="navbar" className={this.state.clicked ? "#navbar active" : "#navbar"}>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/">Calculator</a></li>
+                <ul id="navbar-custom" className={this.state.clicked ? "#navbar-custom active" : "#navbar-custom"}>
+                    <li><Link href="/">Home</Link></li>
+                    <li><Link href="/calculator">Calculator</Link></li>
                     <li><Link href="/about">About</Link></li>
                     <li><a href="/">Sign Up</a></li>
                 </ul>
             </div>
 
             <div id="mobile" onClick={this.handleClick}>
-                <i id="bar" className={this.state.clicked ? 'fas fa-times' : 'fas fa-bars'}></i>
+                <i id="bar" className={this.state.clicked ? 'fa-regular fa-circle-xmark' : 'fa-solid fa-bars'}></i>
             </div>
           </nav>
         </>
