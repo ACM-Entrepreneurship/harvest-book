@@ -30,3 +30,9 @@ Harvest Book is a website that provides a platform for farmers to donate their e
 <img src="https://avatars.githubusercontent.com/u/3717923?s=280&v=4" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
+<br/><br/>
+
+## Contributors
+<a href = "https://github.com/ACM-Entrepreneurship/harvest-book-02/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo = ACM-Entrepreneurship/harvest-book-02"/>
+</a>
