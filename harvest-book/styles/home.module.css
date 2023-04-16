@@ -1,0 +1,129 @@
+.titlebox {
+    width: 100%;
+    height: 650px;
+    margin-top: 5%;
+}
+.titlebg {
+    width: 50%;
+    height: 100px;
+    background-color: black;
+    margin-left: 25%;
+    padding-top: 50px;
+    position: absolute;
+    top: 250px;
+    left: 16px;
+    opacity: 0.4;
+}
+
+.titlebg2 {
+    width: 60%;
+    height: 70px;
+    background-color: black;
+    margin-left: 20%;
+    padding-top: 50px;
+    position: absolute;
+    top: 375px;
+    left: 16px;
+    opacity: 0.4;
+}
+
+.titleText {
+    color: white;
+    position: absolute;
+    top: 250px;
+    left: 550px;
+    font-size: 70px;
+}
+
+#titleInfo {
+    color: white;
+    position: absolute;
+    top: 375px;
+    left: 313px;
+    font-size: 40px;
+}
+
+#titleColor {
+    color: #A3EBB1;
+}
+
+.perksRow {
+    width: 100%;
+    height: 600px;
+    background-color: beige;
+    margin-top: 10%
+}
+
+#perkInfoTitle {
+    color: #116530;
+    font-size: 50px;
+    margin-left: 40%;
+}
+
+#charInfoTitle {
+    color: #116530;
+    font-size: 50px;
+    margin-left: 40%;
+    margin-bottom: 2%;
+}
+
+.perk1 {
+    width: 400px;
+    height: 400px;
+    background-color: aliceblue;
+    float: left;
+    margin-top: 50px;
+    margin-left: 60px;
+    border-radius: 10px;
+    border-width:3px;
+    border-style:solid;
+    border-color:#116530;
+    padding-left: 50px;
+}
+
+.perk2 {
+    width: 400px;
+    height: 400px;
+    background-color: aliceblue;
+    float: left;
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 10px;
+    border-width:3px;
+    border-style:solid;
+    border-color:#116530;
+    padding-left: 50px;
+}
+
+.perk3 {
+    width: 400px;
+    height: 400px;
+    background-color: aliceblue;
+    float: left;
+    margin-left: 50px;
+    margin-top: 50px;
+    border: 2px;
+    border-radius: 10px;
+    border-width:3px;
+    border-style:solid;
+    border-color:#116530;
+    padding-left: 50px;
+}
+
+.perkText {
+    padding-top: 5px;
+    font-size: 30px;
+    padding-left: 20px;
+}
+.whitespace {
+    margin-top: 10%;
+}
+
+
+.clr {
+    clear: both;
+}
+
+.card-char {
+    width: 18rem;
+}
