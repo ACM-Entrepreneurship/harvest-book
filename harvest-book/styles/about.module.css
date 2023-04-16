@@ -1,0 +1,109 @@
+.Outerbox {
+    position: relative;
+    border: 20px solid aquamarine;
+    background-color: rgb(231, 233, 232);
+    height: 600px;
+    margin-left: 2%;
+    margin-right: 2%;
+    
+
+}
+
+.Outerbox img {
+    position: relative;
+    height: 560px;
+    width: 100%;
+}
+
+.Outerbox1 {
+    position: relative;
+    border: 20px solid aquamarine;
+    padding-top: 70%;
+    background-color: rgb(231, 233, 232);
+    height: 100%;
+    margin-left: 2%;
+    margin-right: 2%;
+    
+
+}
+
+.Outerbox1 img {
+    position: relative;
+    height: 560px;
+    width: 100%;
+}
+
+
+
+.clr {
+    padding-top: 6%;
+
+
+}
+
+
+.GreenBox1 {
+    position:absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    background-color: #116530;
+    height: 6%;
+    width: 16%;
+    text-align: center;
+    
+
+}
+
+.GreenBox2 {
+    position:absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    background-color: #116530;
+    height: 6%;
+    width: 16%;
+    text-align: center;
+
+}
+
+.GreenBox3 {
+    position:absolute;
+    top: 153%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    background-color: #116530;
+    height: 6%;
+    width: 16%;
+    text-align: center;
+
+}
+
+.GreenBox4 {
+    position:absolute;
+    top: 200%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    background-color: #116530;
+    height: 6%;
+    width: 16%;
+    text-align: center;
+
+}
+
+.GreenBox5 {
+    position:absolute;
+    top: 250%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    background-color: #116530;
+    height: 6%;
+    width: 16%;
+    text-align: center;
+
+}
