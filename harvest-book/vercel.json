@@ -1,0 +1,11 @@
+{
+    "builds": [
+        {
+            "src": "npm run build",
+            "use": "@vercel/static-build",
+            "config": {
+                "distDir": "pages"
+            }
+        }
+    ]
+}
