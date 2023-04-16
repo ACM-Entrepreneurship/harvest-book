@@ -18,7 +18,7 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: white;
+  font-family: inter;
 }
 
 nav{
@@ -33,19 +33,19 @@ nav{
   z-index: 100; /* Prevents overlap */
 }
 
-#navbar{
+#navbar-custom{
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-#navbar li{
+#navbar-custom li{
   list-style: none;
-  padding: 0 20px;
+  padding: 0px 20px;
   position: relative;
 }
 
-#navbar li a{
+#navbar-custom li a{
   font-family: inter;
   text-decoration: none;
   font-size: 1.3rem;
@@ -54,7 +54,7 @@ nav{
   transition: 0.1s ease-in-out;
 }
 
-#navbar li a:hover{
+#navbar-custom li a:hover{
   color: #A3EBB1;
   border-bottom: 3px solid #A3EBB1;
 }
@@ -73,7 +73,7 @@ nav{
 }
 
 @media screen and (max-width:900px) {
-  #navbar{
+  #navbar-custom{
       display: flex;
       flex-direction: column;
       align-items: flex-start;
@@ -89,11 +89,11 @@ nav{
       transition: 0.3s ease-in-out;
   }
 
-  #navbar.active{
+  #navbar-custom.active{
       right: 0px;
   }
 
-  #navbar li{
+  #navbar-custom li{
       margin-bottom: 25px;
       background-color: #116530;
   }
@@ -112,3 +112,31 @@ nav{
       height: 60px;
   }
 }
+
+#paragraph_header {
+  color: #116530;
+  font-family: inter;
+  text-align: center;
+  padding-top: 170px;
+  padding-bottom: 50px;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.custom-footer {
+  color: #116530;
+}
+
+#footer_logo {
+  height: 60px;
+  width: 55px;
+}
+
+.calc-button {
+  padding-bottom: 50px;
+}
+
+#home-img-1 {
+  height: 1000px;
+}
+
