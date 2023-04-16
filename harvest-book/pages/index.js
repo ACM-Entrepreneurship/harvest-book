@@ -3,6 +3,7 @@ import { Inter } from 'next/font/google'
 import Layout from '@/components/Layout'
 import styles from '../styles/home.module.css'
 import Head from 'next/head';
+import {useNavigate} from 'react-router-dom';
 
 const inter = Inter({ subsets: ['latin'] })
 
