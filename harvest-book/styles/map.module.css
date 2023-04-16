@@ -1,0 +1,22 @@
+.mapdiv {
+    margin-top: 15%;
+    margin-left: 25%;
+}
+
+.address{
+    margin-top: 5px;
+    margin-left: 25%;
+    color: black
+}
+
+.address form {
+    margin: auto;
+}
+
+.address form label{
+    border: 1px solid black;
+}
+
+.address form input{
+    border: 1px solid black;
+}
