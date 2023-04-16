@@ -1,6 +1,9 @@
 .mapdiv {
-    margin-top: 15%;
-    margin-left: 25%;
+    margin-top: 10%;
+    margin-left: 15%;
+    border: 1px solid black;
+    height: 600px;
+    width: 1000px;
 }
 
 .address{
