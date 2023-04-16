@@ -19,6 +19,12 @@
 Harvest Book is a website that provides a platform for farmers to donate their excess food to charities, reducing food waste and decay while also providing tax benefits for the farmers. By connecting farmers directly with local charities and food banks, Harvest Book streamlines the process of donating surplus crops and helps ensure that food gets to those who need it most. Additionally, farmers can receive tax benefits for donating their excess produce, providing an added incentive to participate in this sustainable and charitable initiative. With Harvest Book, farmers can easily reduce their environmental impact, help their local communities, and receive financial benefits at the same time.
 <br/><br/>
 
+## Website Page
+<img src="harvest-book/public/images/harvest_book_main_page.png" height="400"><br/>
+<img src="harvest-book/public/images/harvest_book_calculator_page.png" height="400"><br/>
+<img src="harvest-book/public/images/harvest_book_map_page.png" height="400">
+<br/><br?>
+
 ## Technologies Used
 <p align="center">
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/boostrap.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
