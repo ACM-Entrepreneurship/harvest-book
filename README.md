@@ -23,7 +23,7 @@ Harvest Book is a website that provides a platform for farmers to donate their e
 <img src="harvest-book/public/images/harvest_book_main_page.png" height="400"><br/>
 <img src="harvest-book/public/images/harvest_book_calculator_page.png" height="400"><br/>
 <img src="harvest-book/public/images/harvest_book_map.png" height="400"><br/>
-<br/>
+<br/><br/>
 
 ## Technologies Used
 <p align="center">
