@@ -1,10 +1,10 @@
 {
     "builds": [
         {
-            "src": "npm run build",
+            "src": "cd app && npm run build",
             "use": "@vercel/static-build",
             "config": {
-                "distDir": "pages"
+                "distDir": "app/.next"
             }
         }
     ]
