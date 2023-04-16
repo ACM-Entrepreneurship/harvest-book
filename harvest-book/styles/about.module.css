@@ -3,8 +3,8 @@
     border: 20px solid aquamarine;
     background-color: rgb(231, 233, 232);
     height: 600px;
-    margin-left: 2%;
-    margin-right: 2%;
+    margin-left: 6%;
+    margin-right: 6%;
     
 
 }
@@ -19,10 +19,11 @@
     position: relative;
     border: 20px solid aquamarine;
     padding-top: 70%;
-    background-color: rgb(231, 233, 232);
-    height: 100%;
-    margin-left: 2%;
-    margin-right: 2%;
+    background-color: beige;
+    height: 600px;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 2%;
     
 
 }
@@ -49,61 +50,130 @@
     transform: translate(-50%,-50%);
     color: white;
     background-color: #116530;
-    height: 6%;
+    height: 5%;
     width: 16%;
     text-align: center;
+    font-weight: bold;
     
 
 }
 
 .GreenBox2 {
     position:absolute;
-    top: 90%;
+    top: 93%;
     left: 50%;
     transform: translate(-50%,-50%);
     color: white;
     background-color: #116530;
-    height: 6%;
+    height: 5%;
     width: 16%;
     text-align: center;
+    font-weight: bold;
 
 }
 
 .GreenBox3 {
     position:absolute;
-    top: 153%;
+    top: 166%;
     left: 50%;
     transform: translate(-50%,-50%);
     color: white;
     background-color: #116530;
-    height: 6%;
+    height: 5%;
     width: 16%;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.text1 {
+    
+    width: 1200px;
+    height: 100px;
+    margin-left: 18%;
+    position: absolute;
+    top: 1550px;
     text-align: center;
 
 }
 
+.text2 {
+    width: 1500px;
+    height: 220px;
+    margin-left: 11%;
+    position: absolute;
+    top: 1900px;
+    text-align: center;
+
+}
+
+.text3 {
+    
+    width: 1400px;
+    height: 220px;
+    margin-left: 14%;
+    position: absolute;
+    top: 2370px;
+    text-align: center;
+
+}
+
+.text4 {
+    background-color: black;
+    opacity: 0.8;
+    width: 1200px;
+    height: 220px;
+    margin-left: 18%;
+    position: absolute;
+    top: 240px;
+    color: white;
+    text-align: center;
+
+}
+
+.text5 {
+    background-color: black;
+    opacity: 0.8;
+    width: 1200px;
+    height: 260px;
+    margin-left: 17%;
+    position: absolute;
+    top: 900px;
+    color: white;
+    text-align: center;
+
+}
+
+
+
 .GreenBox4 {
     position:absolute;
-    top: 200%;
+    top: 208%;
     left: 50%;
     transform: translate(-50%,-50%);
     color: white;
     background-color: #116530;
-    height: 6%;
+    height: 5%;
     width: 16%;
     text-align: center;
+    font-weight: bold;
 
 }
 
 .GreenBox5 {
     position:absolute;
-    top: 250%;
+    top: 260%;
     left: 50%;
     transform: translate(-50%,-50%);
     color: white;
     background-color: #116530;
-    height: 6%;
+    height: 5%;
     width: 16%;
     text-align: center;
+    font-weight: bold;
 
+}
+
+.whitesp {
+    margin-top: 6%;
 }
