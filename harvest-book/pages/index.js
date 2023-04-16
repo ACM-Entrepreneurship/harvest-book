@@ -1,6 +1,5 @@
 import Image from 'next/legacy/image'
 import { Inter } from 'next/font/google'
-import Navbar from '@/components/Navbar'
 import Layout from '@/components/Layout'
 import styles from '../styles/home.module.css'
 import Head from 'next/head';
