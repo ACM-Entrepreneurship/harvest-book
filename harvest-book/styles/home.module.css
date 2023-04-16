@@ -3,6 +3,7 @@
     height: 650px;
     margin-top: 5%;
 }
+
 .titlebg {
     width: 50%;
     height: 100px;
@@ -31,15 +32,16 @@
     color: white;
     position: absolute;
     top: 250px;
-    left: 550px;
+    left: 40%;
     font-size: 70px;
+    text-align: center;
 }
 
 #titleInfo {
     color: white;
     position: absolute;
     top: 375px;
-    left: 313px;
+    left: 27%;
     font-size: 40px;
 }
 
@@ -51,10 +53,12 @@
     width: 100%;
     height: 600px;
     background-color: beige;
-    margin-top: 10%
+    margin-top: 10%;
+    position: relative;
 }
 
 #perkInfoTitle {
+    width: 0, 40%, 0, 40%;
     color: #116530;
     font-size: 50px;
     margin-left: 40%;
@@ -63,7 +67,7 @@
 #charInfoTitle {
     color: #116530;
     font-size: 50px;
-    margin-left: 40%;
+    margin-left: 45%;
     margin-bottom: 2%;
 }
 

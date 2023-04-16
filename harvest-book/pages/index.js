@@ -34,7 +34,7 @@ export default function Home() {
           </div>
           <div className={styles.perk3}>
             <Image src='/../public/food_sharing_icon.png' width="300" height="300"></Image>
-            <h1 className={styles.perkText}>Combat Food Scarity</h1>
+            <h1 className={styles.perkText}>Combat Food Scarcity</h1>
           </div>
       </div>
       <div className={styles.whitespace}></div>
