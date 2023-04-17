@@ -1,0 +1,11 @@
+{
+    "builds": [
+        {
+            "src": "cd harvest-book && npm run build",
+            "use": "@vercel/static-build",
+            "config": {
+                "distDir": "harvest-book/.next"
+            }
+        }
+    ]
+}

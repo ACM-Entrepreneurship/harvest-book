@@ -122,6 +122,16 @@ nav{
   font-weight: 500;
 }
 
+#paragraph_header_congrats {
+  color: #116530;
+  font-family: inter;
+  text-align: center;
+  padding-top: 170px;
+  padding-bottom: 50px;
+  font-size: 40px;
+  font-weight: 500;
+}
+
 .custom-footer {
   color: #116530;
 }
@@ -139,3 +149,37 @@ nav{
   height: 1000px;
 }
 
+.mapdiv {
+  margin-top: 10%;
+  margin-left: 15%;
+  border: 1px solid black;
+  height: 600px;
+  width: 1000px;
+}
+
+.img-about-1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  margin-bottom: 5%;
+  margin-top: 12%;
+}
+
+.address{
+  margin-top: 5px;
+  margin-left: 25%;
+  color: black
+}
+
+.address form {
+  margin: auto;
+}
+
+.address form label{
+  border: 1px solid black;
+}
+
+.address form input{
+  border: 1px solid black;
+}

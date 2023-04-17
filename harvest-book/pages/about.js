@@ -1,104 +1,31 @@
-import React from 'react'
-import styles from '../styles/about.module.css'
+import React from 'react';
+import styles from '../styles/about.module.css';
 //import { Link } from "react-router-dom";
 import Layout from '../components/Layout';
 import Image from 'next/image';
 import Head from 'next/head'
 
 
-function About() {
+
+ export default function About() {
     return(
         <>
         <Layout>
-        <div>
-            <div className={styles.clr}></div>
-            <h1 className={styles.Outerbox}>
-            <img src='/images/farm-img2.jpg' height={200} width={600} />
-            </h1>
-            <div className={styles.GreenBox1}> ABOUT US </div>
-            <div className={styles.text4}>
-                <div>
-                    <p>
-                        At Harvest Book, our mission is to address the pressing challenges 
-                        of food waste, environmental degradation, food insecurity, and 
-                        social inequality through innovative entrepreneurial solutions. 
-                        We strive to create a sustainable food ecosystem that benefits 
-                        everyone - from the food producers to the consumers - while 
-                        giving back to the community. Our goal is to minimize food waste,
-                        promote environmentally friendly practices, and combat food 
-                        scarcity by sharing resources, knowledge, and technology. 
-                        We believe that by harnessing the power of business, 
-                        we can create meaningful change and build a better future for all.  
-                    </p>
+            <div className='justify-content-center align-items-center about-boxes-wrapper'>
+                 <div className='box-about-1'>
+                   <Image src='/../public/images/about-page-1.png' className="img-about-1" height={200} width={600}/>
+                 </div>
 
-                </div>
+                 <div className='box-about-1'>
+                   <Image src='/../public/images/about-page-2.png' className="img-about-1" height={200} width={600}/>
+                 </div>
+
+                 <div className='box-about-1'>
+                    <Image src='/../public/images/about-page-3.png' className="img-about-1" height={200} width={600}/>
+                 </div>
             </div>
-            
-            <div className={styles.Outerbox}>
-            <img src='/images/farm-img1.jpg' height={200} width={600} />
-            </div>
-            <div className={styles.GreenBox2}> MISSION STATEMENT </div>
-            <div className={styles.text5}>
-                <p>
-                Our mission at HarvestBook is to create a sustainable food ecosystem
-                 that benefits everyone—from your local farmers to your nearest food 
-                 bank-- while also promoting awareness on ways to preserve our environment.
-                  Our goal is to minimize food waste, promote environmentally friendly 
-                  farming practices, and combat food scarcity by sharing resources, 
-                  knowledge, and technology. We believe that by working together, 
-                  we can provide sustainable and cost-effective solutions that not 
-                  only reduce food waste but also benefit our economies, environment, and community. 
-                  Our goal is to enable entrepreneurs and businesses to take a leading 
-                  role in reducing food waste and creating a more sustainable food 
-                  system for future generations.
-                </p>
-            </div>
-            <div className={styles.Outerbox1}></div>
-            <div className={styles.GreenBox3}> FOOD WASTE? </div>
-            <div className={styles.text1}>
-                <p>Each year, 1.3 billion tons of food is wasted,
-                    which is nearly 40% of all the food produced in the U.S. 
-                    This amount of food worth approximately 1 trillion US dollars.
-                    Food waste is a major issue for farmers as well, many studies estimate that 
-                    nearly 30% of all food produced by farmers is wasted. Additionally, many 
-                    grocery stores and supermarkets may reject edible food produced by farmers 
-                    because of appearance or weight standards, which causes even more food to be 
-                    thrown away
-                </p> 
-            </div>
-            <div className={styles.GreenBox4}> Why It Matters? </div>
-            <div className={styles.text2}>
-                <p>
-                Food waste in the U.S. is a significant problem, with consumers alone wasting about $1,500 worth of groceries per year for a four-person household. 
-                Crops are also left in fields due to mechanical harvesting practices, and food manufacturing and transportation issues contribute to the problem. 
-                In addition to the economic impact, food waste has serious environmental consequences, including the release of methane, a potent greenhouse gas, 
-                as well as wasting water, oil, and land resources. Approximately 18% of methane emissions are generated by wasted food, 
-                and the amount of water wasted is equivalent to 45 trillion gallons. The food waste also costs us about 350 million barrels of oil, 
-                and an estimated 1.3 billion tons of wasted food takes up valuable landfill space, using up 22% of our landfill area.
-                </p> 
-            </div>
-            <div className={styles.GreenBox5}> Our Solution? </div>
-            <div className={styles.text3}>
-                <p>
-                Harvest Book is a website that provides a platform for farmers to
-                 donate their excess food to charities, reducing food waste, and 
-                 decay while also providing tax benefits for the farmers. 
-                 By connecting farmers directly with local charities and 
-                 food banks, Harvest Book streamlines the process of donating 
-                 surplus crops and helps ensure that food gets to those who need 
-                 it most. Additionally, farmers can receive tax benefits for 
-                 donating their excess produce, providing an added incentive to 
-                 participate in this sustainable and charitable initiative. With 
-                 Harvest Book, farmers can easily reduce their environmental impact,
-                    help their local communities, and receive financial benefits at 
-                  the same time.
-                </p>
-            </div>
-        </div>
-        <div className={styles.whitesp}></div>
         </Layout>
         </>
     )
 }
 
-export default About;
