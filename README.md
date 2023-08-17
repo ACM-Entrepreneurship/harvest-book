@@ -4,7 +4,6 @@
         <img src="https://img.shields.io/github/contributors/ACM-Entrepreneurship/harvest-book-02" /></a>
 ![main](https://img.shields.io/github/last-commit/ACM-Entrepreneurship/harvest-book-02/main)
 [![forks - harvest-book](https://img.shields.io/github/forks/ACM-Entrepreneurship/harvest-book-02?style=social)](https://github.com/ACM-Entrepreneurship/harvest-book-02)
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 [![issues - harvest-book](https://img.shields.io/github/issues/ACM-Entrepreneurship/harvest-book-02)](https://github.com/ACM-Entrepreneurship/harvest-book-02/issues)
 ![pull requests](https://img.shields.io/github/issues-pr/ACM-Entrepreneurship/harvest-book-02)
 <p>
